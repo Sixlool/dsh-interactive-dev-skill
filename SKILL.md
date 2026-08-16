@@ -1,3 +1,9 @@
+---
+name: dsh-interactive-dev-skill
+description: 'Interactive development workflow: use structured multiple-choice questions (ask_user_question) to let users decide requirements, then document first, implement, and visually verify before shipping.'
+description-zh: '交互式开发工作流（选择题需求 → 文档先行 → 视觉预览验证）'
+---
+
 # DeepSeek Harness 交互式开发工作流 Skill
 
 > 把「让用户做选择题」贯穿始终的 DSH 插件 / 功能开发方法论。
@@ -103,5 +109,5 @@
 
 ## 参考案例
 
-- 本 skill 的实战来源：[Sixlool/dsh-desktop-pet](https://github.com/Sixlool/dsh-desktop-pet)
-- 提问与预览的完整示例见本仓库 `examples/` 目录
+- 本 skill 的实战来源：`Sixlool/dsh-desktop-pet`（GitHub）
+- 提问与预览的完整示例见本 skill 的 `examples/` 目录（与 SKILL.md 同目录）
