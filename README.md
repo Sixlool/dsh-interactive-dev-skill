@@ -2,6 +2,9 @@
 
 让 AI 用**结构化选择题**和你确认需求、分阶段推进开发的 DeepSeek Harness Skill。
 
+> 👤 作者：[@Sixlool](https://github.com/Sixlool)
+> 📦 相关项目：[dsh-desktop-pet（桌宠）](https://github.com/Sixlool/dsh-desktop-pet) · [dsh-skill-picker（Skill 选择器）](https://github.com/Sixlool/dsh-skill-picker)
+
 ## 这是什么
 
 把一次真实的 DSH 桌宠插件实战（[dsh-desktop-pet](https://github.com/Sixlool/dsh-desktop-pet)）中验证有效的方法论沉淀成可复用 Skill：
